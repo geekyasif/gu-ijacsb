@@ -1,0 +1,201 @@
+
+Briefing  Start an open-access journal – Galgotias University
+
+    1. Define Your Focus: Decide on the specific field or topic your journal will cover. It's essential to choose a niche that aligns with your expertise and passion while addressing a gap in the existing academic publishing landscape.
+    2. Conduct Market Research: Analyse the market to identify potential competitors and understand the demand for a new journal in your chosen field. Look for gaps in existing journals and try to find a unique selling proposition (USP) for your publication.
+    3. Form a Team: Building a competent team is crucial to the success of your journal. Recruit experts in the field who can serve as editorial board members, peer reviewers, and journal managers. Having a diverse and experienced team will enhance the journal's credibility.
+    4. Develop Editorial Policies and Guidelines: Create clear and comprehensive editorial policies and guidelines for authors, reviewers, and editors. This includes instructions for manuscript submissions, the peer review process, ethics guidelines, and copyright policies.
+    5. Choose a Publishing Model: Decide whether your journal will be open-access, subscription-based, or a hybrid model. Open access allows broader access but may require funding through publication fees or other means.
+    6. Set Up a Website and Submission System: Develop a professional website where authors can submit their manuscripts, and reviewers can access submissions for peer review. Many academic publishers use specialized journal management software to streamline the editorial process.
+    7. Register Your Journal: Register your journal with the appropriate authorities, obtain an ISSN (International Standard Serial Number), and ensure that you comply with any legal and copyright requirements.
+    8. Attract Submissions: To attract quality submissions, promote your journal through conferences, academic networks, and social media. Collaborate with academic institutions and researchers to increase visibility.
+    9. Establish a Review Process: Implement a rigorous and transparent peer review process to ensure the quality and validity of the published articles. This is a critical aspect of maintaining the journal's reputation.
+    10. Publish Regularly: Consistency is key to building a reputation as a reputable journal. Publish articles regularly and adhere to the planned publication schedule.
+    11. Promote and Index: Work on indexing your journal in relevant academic databases and repositories. Also, consider promoting your journal through indexing services, academic directories, and relevant academic organizations.
+    12. Monitor and Improve: Continuously monitor the performance of your journal, seek feedback from authors, reviewers, and readers, and make improvements based on suggestions and industry best practices.
+
+IJACSB
+
+EDITORIAL TEAM
+Dr. Avadhesh Kumar
+Dr. Prashant Johri
+Dr. Shraddha Sagar
+Dr. Kuldeep Singh Kaswan
+
+
+
+
+Foam Team
+
+ Editor-in-Chief: The Editor-in-Chief is the head of the editorial team and oversees the journal's content, ensuring its quality and adherence to the journal's scope and mission. They are responsible for making final decisions on articles, managing the peer review process, and maintaining the journal's integrity.
+
+Editorial Board Members: The editorial board consists of subject-matter experts and researchers with a strong background in the field covered by the journal. They provide guidance, expertise, and support to the Editor-in-Chief and assist in the review and selection of manuscripts.
+
+Managing Editor: The Managing Editor plays a crucial role in the day-to-day operations of the journal. They handle administrative tasks, manage the submission and review process, communicate with authors and reviewers, and ensure that the journal's workflow runs smoothly.
+
+Reviewers: Reviewers are external experts who evaluate submitted manuscripts. They provide constructive feedback and recommendations to the authors and help the editorial team make informed decisions about publication.
+
+Copy Editors and Proofreaders: Copy editors and proofreaders ensure that published articles meet high linguistic and formatting standards. They review and edit the content for clarity, grammar, and style.
+
+Technical Support: Depending on the journal's publishing platform, a technical support team may be needed to maintain and update the journal's website, handle any technical issues, and ensure proper indexing and archiving of published content.
+
+Marketing and Communications: A team responsible for marketing and communications can help promote the journal, increase its visibility, and engage with the academic community through social media, newsletters, and other channels.
+
+Copyright and Licensing Specialist: This role ensures that the journal follows proper copyright policies, obtains necessary permissions, and manages licensing agreements, especially in the case of open-access content.
+
+Ethics Committee: An ethics committee can be established to handle any ethical issues related to research integrity, conflicts of interest, or other ethical concerns that may arise during the publication process.
+
+Financial and Administrative Support: Depending on the size and structure of the journal, a financial and administrative team can help manage the journal's budget, handle payments, and coordinate administrative tasks.
+
+The size and complexity of the team may vary based on the journal's scale, the number of submissions it receives, and its overall objectives. Collaboration and effective communication among team members is crucial for the smooth functioning of an open-access journal.
+
+Policies and Guidelines:
+
+Open Access Model: Clearly state the open access model being followed by the journal, whether it's a fully open access journal or a hybrid model where only specific articles are open access.
+
+Licensing: Require authors to select appropriate open access licenses, such as Creative Commons licenses, to ensure readers' rights to use, distribute, and build upon the published content.
+
+Peer Review Process: Clearly outline the peer review process followed by the journal to maintain the quality and validity of published research. This process typically involves independent experts evaluating submitted manuscripts.
+
+Plagiarism and Ethics: Establish strict policies against plagiarism, duplicate submissions, and research misconduct. Authors should be required to confirm the originality of their work and adherence to ethical standards.
+
+Copyright: Specify the copyright policy, ensuring that the authors retain the copyright to their work while allowing the journal to publish and distribute it under the chosen open-access license.
+
+Publication Charges: Be transparent about any article processing charges (APCs) or publication fees required from authors. Clearly state the charges and any waiver policies for researchers with financial constraints.
+
+Archiving and Preservation: Commit to long-term archiving and preservation of published content to ensure its accessibility and integrity over time.
+
+Indexing and Abstracting: Aim to be indexed in reputable databases and abstracting services to increase the journal's visibility and impact.
+
+Author Guidelines: Provide detailed guidelines to authors regarding manuscript preparation, submission procedures, and formatting requirements.
+
+Data Sharing: Encourage or mandate authors to share their data, algorithms, and other supplementary materials to promote transparency and reproducibility.
+
+Editorial Independence: Ensure editorial independence from any commercial or political influences, safeguarding the journal's integrity and unbiased decision-making.
+
+Transparent Review Process: Consider adopting open peer review or other transparent review models, where the identities of authors and reviewers are disclosed during the review process.
+
+Correction and Retraction Policies: Establish procedures for correcting errors and addressing retractions if necessary to maintain the credibility of the published content.
+
+
+
+Publishing Model
+
+When considering the publishing model for an open-access journal, there are several options to choose from. Each model has its advantages and challenges, so the choice depends on the goals, resources, and preferences of the journal. Here are some common open-access publishing models:
+
+Gold Open Access:	In the Gold Open Access model, all articles are freely available to readers immediately upon publication. Authors typically pay article processing charges (APCs) to cover the costs of peer review, editing, and publishing. This model allows readers to access articles without any subscription or paywall barriers.
+
+Advantages: Immediate and free access for readers, authors retain copyright and broader visibility for research.
+
+Challenges: Financial burden on authors, the potential for perceived conflicts of interest due to the author-pays model.
+
+Green Open Access (Self-Archiving):	In the Green Open Access model, authors publish their work in subscription-based journals and then self-archive a version of the manuscript in an institutional or subject repository after an embargo period. The self-archived version becomes freely accessible to readers.
+
+Advantages: No APCs for authors, increased visibility through repositories, works with existing publishing infrastructure.
+
+Challenges: Delayed open access, varying embargo periods set by publishers, and potential for version control issues.
+
+Hybrid Open Access:	Hybrid Open Access combines elements of both subscription-based and open-access publishing. In this model, journals offer the option for authors to make individual articles open access by paying APCs, while the rest of the journal remains subscription-based.
+
+Advantages: Authors can choose which articles to make open access, seamless integration with traditional publishing.
+
+Challenges: High APCs, potential for double-dipping (charging for both subscriptions and APCs).
+
+Diamond/Open Diamond/Open Science/Open Access without APCs:	In this model, the journal is typically supported by institutions, societies, or funding agencies, eliminating the need for APCs. The costs of publishing are covered externally, ensuring free access to readers and authors.
+
+Advantages: No APCs for authors, no financial barriers for readers, promotes equity in access.
+
+Challenges: This may require significant external funding and sustainable financial support.
+
+Community-Supported Models:	Some open-access journals are community-supported, relying on volunteer work, crowdfunding, or partnerships with institutions to cover their operational costs.
+
+Advantages: Engages the academic community, fosters collaboration, and may lead to lower costs.
+
+Challenges: Reliance on volunteers and donations, potential for financial instability.
+
+Ultimately, the choice of the open-access publishing model depends on factors such as the journal's scope, financial resources, and the willingness of the academic community to support the model. Whichever model is chosen, transparency in publishing fees, ethical considerations, and quality assurance through rigorous peer review are critical elements for a successful open-access journal.
+
+
+
+
+Website and Submission System
+
+User Interface and Experience: Design a clean and intuitive user interface that makes navigation easy for authors, reviewers, and readers. Ensure a user-friendly experience throughout the submission and review process.
+
+Responsive Design: Optimize the website and submission system for various devices, including desktops, tablets, and smartphones, to accommodate a diverse user base.
+
+Submission Process: Implement a clear and streamlined submission process for authors. Include detailed guidelines, templates, and checklists to assist authors during manuscript preparation and submission.
+
+Peer Review System: Develop a robust and transparent peer review system. Allow reviewers to access and submit their reviews easily through the platform.
+
+User Accounts: Offer user accounts for authors, reviewers, and editors. This allows for personalized experiences and easy tracking of submissions and reviews.
+
+Manuscript Tracking: Provide a dashboard for authors and reviewers to track the status of their submissions and reviews in real-time.
+
+File Uploads and Formats: Support various file formats for manuscript submission and supplementary materials. Ensure the system can handle large file uploads securely.
+
+Author Collaboration: Enable co-author collaboration within the submission system, allowing multiple authors to contribute to and track the progress of the manuscript.
+
+Data Security: Implement robust security measures to protect user data, sensitive information, and intellectual property.
+
+Compatibility with Standards: Comply with relevant standards for open-access publishing, such as ORCID integration, DOI assignment, and adherence to publishing guidelines.
+
+Licensing and Copyright: Provide options for authors to choose open-access licenses (e.g., Creative Commons) and handle copyright agreements during the submission process.
+
+Reviewer Management: Develop a system for assigning reviewers, tracking their responses, and managing the review process efficiently.
+
+Editorial Workflow: Create a workflow that allows editors to handle submissions, assign reviewers, make decisions, and communicate with authors and reviewers seamlessly.
+
+Automated Notifications: Implement an automated email notification system to keep authors and reviewers informed about the status of their submissions and reviews.
+
+Analytics and Reporting: Incorporate analytics tools to gather data on submission trends, reviewer performance, and other key metrics to improve the journal's efficiency.
+
+Accessibility Compliance: Ensure the website and submission system adhere to accessibility standards, making it inclusive for users with disabilities.
+
+Continuous Improvement: Regularly gather feedback from users and stakeholders to identify areas for improvement and enhance the platform's functionality.
+
+By considering these key points, we can create a robust and user-friendly website and submission system for your open-access journal, enhancing the overall experience for authors, reviewers, and readers.
+
+Website e.g.:  Directory of Open Access Journals (DOAJ): https://doaj.org/
+
+
+One of the most comprehensive and reputable directories of open-access journals covering a wide range of disciplines.
+PubMed Central (PMC): https://www.ncbi.nlm.nih.gov/pmc/
+
+
+A free full-text archive of biomedical and life sciences journal literature, hosted by the U.S. National Institutes of Health (NIH).
+ScienceDirect Open Access Journals: https://www.sciencedirect.com/browse/journals-and-books
+
+
+ScienceDirect offers a list of open-access journals in various scientific disciplines.
+PLOS ONE: https://journals.plos.org/plosone/
+
+
+A prominent open-access journal publishing high-quality research across all scientific disciplines.
+SpringerOpen: https://www.springeropen.com/journals
+
+
+A collection of open-access journals published by Springer Nature, covering a wide range of subjects.
+IEEE Xplore Open Access: https://ieeexplore.ieee.org/open-access
+
+
+IEEE provides open-access articles in the fields of engineering, computer science, and related areas.
+BioMed Central: https://www.biomedcentral.com/journals
+
+
+A collection of open-access journals covering biomedical and life sciences.
+Hindawi: https://www.hindawi.com/journals/
+
+
+An open-access publisher with a broad range of journals covering various scientific disciplines.
+Frontiers: https://www.frontiersin.org/journals
+
+
+An open-access publisher with a focus on a wide range of research areas.
+MDPI: https://www.mdpi.com/journal
+
+
+An open-access publisher with a diverse portfolio of journals across different subject areas.
+
+
+
